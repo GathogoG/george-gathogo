@@ -1,0 +1,21 @@
+{
+  "name": "george-gathogo",
+  "version": "1.0.0",
+  "description": "This repository contains my professional resume and portfolio. It includes details about my skills, work experience, education, and contact information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GathogoG/george-gathogo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GathogoG/george-gathogo/issues"
+  },
+  "homepage": "https://github.com/GathogoG/george-gathogo#readme"
+}
