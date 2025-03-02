@@ -1,19 +1,35 @@
-# Resume Repository
+# George Gathogo - Personal Portfolio
 
-This repository contains my professional resume and portfolio. It includes details about my skills, work experience, education, and contact information.
+This repository contains the source code for my personal portfolio website. It showcases my skills, work experience, education, and projects.
 
 ## Contents
 
-- **index.html**: Main HTML file containing the structure and content of my resume.
-- **style.css**: CSS file for styling the resume.
-- **script.js**: JavaScript file for interactive elements on the resume.
-- **willisivali.pdf**: PDF version of my resume.
+- **index.html**: Main HTML file containing the structure and content of my portfolio.
+- **css/**
+  - **loaders/**
+    - **loader.css**: CSS file for loader styles.
+  - **main.css**: Main CSS file for styling the portfolio.
+  - **plugins.css**: CSS file for additional plugins and styles.
+- **fonts/**
+  - **Fontawesome/**: Font files for Fontawesome icons.
+  - **Phosphor/**: Font files for Phosphor icons.
+- **img/**: Directory containing images used in the portfolio.
+  - **avatars/**: Directory containing avatar images.
+  - **favicon/**: Directory containing favicon images.
+  - **works/**: Directory containing images of my work.
+  - **preloader.html**: HTML file for the preloader.
+- **js/**
+  - **app.js**: Main JavaScript file for interactive elements.
+  - **gallery-init.js**: JavaScript file for initializing the gallery.
+  - **libs.min.js**: Minified JavaScript libraries.
+- **package.json**: Project configuration file.
+- **README.md**: This file.
 
 ---
 
 ## Overview
 
-This repository serves as a digital representation of my professional background and qualifications. It provides detailed information about my skills, work experience, education, and how to reach me for potential opportunities.
+This portfolio website serves as a digital representation of my professional background and qualifications. It provides detailed information about my skills, work experience, education, and projects.
 
 ---
 
@@ -33,9 +49,7 @@ I possess a diverse set of skills in software development, systems architecture,
 
 ## Work Experience
 
-This section highlights my professional roles, showcasing my expertise in software development, website management, and system engineering.
-
-### KICD — ICT PROGRAMER  
+### KICD — ICT Programmer  
 **September 2024 - December 2024**
 
 - **Analyzing Website Needs**: Skilled in aligning organizational requirements with website objectives to create an effective online presence.
@@ -46,82 +60,60 @@ This section highlights my professional roles, showcasing my expertise in softwa
 - **User Support and Training**: Provide ongoing support and training to ensure smooth website operations for staff.
 - **Web Technology Upgrades**: Stay informed of the latest web technologies and trends, recommending improvements and upgrades as needed.
 
-### United Nations Environment Program — Software Engineer  
-**January 2019 - November 2021**
 
-- **Ardhisasa Development**: Led the development of Ardhisasa, an advanced web-based information system with Active Directory integration for biometric employee sign-in and two-factor authentication (2FA). The system manages comprehensive land records securely and enables public interaction through its client-facing interface.
-- **Search and Security Features**: Enhanced system usability with a robust search functionality for land records and secure login features to protect sensitive data.
-- **UN Website Development**: Contributed to the development of a major website for the United Nations Ozone Secretariat, built on the Drupal platform, as well as a corresponding mobile application designed for data retrieval.
-
-### Microsoft — Software Engineer  
-**June 2017 - December 2018**
-
-- **API Development with Kaizala and Dynamics 365**: Created an API leveraging Microsoft Kaizala for mobile collaboration, integrated with Dynamics 365 to enhance data collaboration and streamline workflows.
-- **Azure Cognitive Services Integration**: Developed an API using Azure Cognitive Services to provide advanced data analysis and intelligent decision-making capabilities for Dynamics 365.
-- **Agile Methodologies**: Successfully utilized agile methodologies, enabling continuous feedback, adaptability to changing requirements, and rapid iterations to deliver high-value software.
-- **Mawingu Networks Online Ticketing System**: Led the implementation of an online ticketing system synchronized with Dynamics 365, improving ticket management and customer service.
-- **Azure Functions for Web APIs**: Engineered web APIs using Azure Functions, ensuring scalable and cost-effective solutions for data retrieval and management.
 
 ---
 
 ## Education
 
-### Middlesex University — BSc. Degree in Information Technology (Major: Software Engineering)  
-**January 2015 - September 2016**
+### Moringa school  (Major: Software Engineering)  
+**February 2024 - September 2024**
+**Relevant Coursework**:
+- **Software Development**: Principles and practices of software development, including the software development lifecycle.
+- **Object-Oriented Programming**: Concepts and application of object-oriented programming languages.
+- **Algorithms and Data Structures**: Design and analysis of algorithms and data structures for problem-solving.
+- **Database Management**: Designing, implementing, and managing relational and NoSQL databases.
+- **Web Development**: Building dynamic and responsive web applications.
+- **Software Testing and Quality Assurance**: Techniques and tools for software testing and ensuring quality assurance.
+
+### ALX -AFRICA —   Frontend-developer  
+**March 2024 - December 2024**
 
 **Relevant Coursework**:
-- Software Development
-- Object-Oriented Programming
-- Algorithms and Data Structures
-- Database Management
-- Web Development
-- Software Testing and Quality Assurance
+- **Project Management**: Planning, executing, and closing projects, ensuring they meet the goals and requirements.
+- **Enterprise Systems Development**: Building and maintaining large-scale enterprise applications.
+- **Advanced Programming Techniques**: Utilizing advanced programming concepts and techniques for efficient coding.
+- **Web Application Development**: Developing dynamic and responsive web applications.
+- **Computer Networks and Security**: Understanding network protocols, architectures, and implementing security measures.
+- **Object-Oriented Analysis and Design**: Applying object-oriented principles to analyze and design software systems.
+- **Data Structures and Algorithms**: Implementing and optimizing data structures and algorithms for problem-solving.
+- **Cloud Computing and Virtualization**: Understanding cloud services and virtualization technologies for scalable applications.
 
-### NCC Education — Advanced Diploma in Computing  
-**January 2014 - December 2014**
-
-**Relevant Coursework**:
-- Project Management
-- Enterprise Systems Development
-- Advanced Programming Techniques
-- Web Application Development
-- Computer Networks and Security
-- Object-Oriented Analysis and Design
-- Data Structures and Algorithms
-- Cloud Computing and Virtualization
-
-### NCC Education — Diploma in Computing  
-**January 2013 - September 2013**
+### ALX - Africa — Backend Developer
+**January 2023 - September 2023**
 
 **Relevant Coursework**:
-- Systems Analysis and Design
-- Network Fundamentals
-- Database Design and Management
-- Software Engineering Principles
-- Operating Systems
-- Cybersecurity and Ethical Hacking
-- Mobile App Development
-- Cloud Computing
+- **Systems Analysis and Design**: Understanding and applying methodologies for analyzing and designing information systems.
+- **Network Fundamentals**: Knowledge of networking concepts, protocols, and architectures.
+- **Database Design and Management**: Skills in designing, implementing, and managing relational and NoSQL databases.
+- **Software Engineering Principles**: Applying software engineering principles and best practices in development.
+- **Operating Systems**: Understanding operating system concepts, including process management, memory management, and file systems.
+- **Cybersecurity and Ethical Hacking**: Knowledge of cybersecurity principles and practices, including ethical hacking techniques.
+- **Mobile App Development**: Developing mobile applications for various platforms.
+- **Cloud Computing**: Understanding cloud computing concepts and services, including deployment and management of cloud-based applications.
 
-### Multimedia University — Cisco Certified Network Associate (CCNA)  
-**October 2009 - April 2010**
-
-**Relevant Coursework**:
-- Networking Fundamentals: OSI model, TCP/IP, IP addressing, and subnetting.
-- Routing and Switching Essentials: Router and switch configuration, VLANs, routing protocols like OSPF and EIGRP, and access control lists (ACLs).
-- Scaling Networks: Advanced switching and routing topics, VLAN trunking, STP, WAN concepts, and NAT.
-- Connecting Networks: WAN technologies, VPNs, and network troubleshooting.
-- Network Automation and Programmability: Introduction to SDN, network automation using APIs, and monitoring tools.
-
-### TechnoBrain — CompTIA Network+  
-**February 2009 - March 2009**
+### AWS - Certification —  Cloud Computing 
+**November 2024 - February 2025**
 
 **Relevant Coursework**:
-- Networking Concepts: OSI and TCP/IP models, network protocols, and addressing schemes.
-- Infrastructure: Network components, cabling types, virtualization technologies, and device configurations.
-- Network Operations and Security: Network management, security concepts, and troubleshooting.
-- Network Architectures and Administration: Client-server, peer-to-peer, cloud-based networks, IP addressing, routing, and DNS/DHCP management.
-- Wireless Networking: Configuring and securing wireless networks, standards, and troubleshooting.
+- **Compute**: Proficient in EC2 for virtual machine management, Lambda for serverless computing, and Elastic Beanstalk for application deployment.
+- **Storage**: Experienced with S3 for scalable storage, EBS for block storage, and Glacier for archival data storage.
+- **Database**: Skilled in RDS (MySQL, PostgreSQL), DynamoDB (NoSQL), and Redshift for data warehousing and analytics.
+- **Networking & Security**: Configured VPC, Route 53 for DNS, and IAM for secure access management. Utilized KMS for encryption and CloudWatch for monitoring/logging.
+- **Developer Tools**: Experience with CodeCommit, CodePipeline, and CodeDeploy for version control, CI/CD automation, and deployment.
+- **Cost Optimization**: Familiar with AWS Budgets and Reserved Instances to reduce cloud costs.
+- **Scalability**: Designed auto-scaling solutions using Auto Scaling, Load Balancers, and CloudFormation for infrastructure as code.
+
 
 ---
 
@@ -137,4 +129,3 @@ You can reach me for professional inquiries via:
 ## Usage
 
 You are welcome to browse through the files in this repository to learn more about my professional journey and qualifications. If you have any questions or wish to discuss potential opportunities, please don't hesitate to contact me.
-

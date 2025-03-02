@@ -17,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/GathogoG/george-gathogo/issues"
   },
-  "homepage": "https://github.com/GathogoG/george-gathogo#readme"
+  "homepage": "https://github.com/GathogoG/george-gathogo#readme",
+  "devDependencies": {}
 }
