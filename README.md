@@ -50,7 +50,7 @@ I possess a diverse set of skills in software development, systems architecture,
 ## Work Experience
 
 ### KICD — ICT Programmer  
-**September 2024 - December 2024**
+
 
 - **Analyzing Website Needs**: Skilled in aligning organizational requirements with website objectives to create an effective online presence.
 - **Server Maintenance and Optimization**: Proficient in maintaining and optimizing servers for reliable and seamless website performance.
@@ -67,7 +67,7 @@ I possess a diverse set of skills in software development, systems architecture,
 ## Education
 
 ### Moringa school  (Major: Software Engineering)  
-**February 2024 - September 2024**
+
 **Relevant Coursework**:
 - **Software Development**: Principles and practices of software development, including the software development lifecycle.
 - **Object-Oriented Programming**: Concepts and application of object-oriented programming languages.
@@ -77,7 +77,7 @@ I possess a diverse set of skills in software development, systems architecture,
 - **Software Testing and Quality Assurance**: Techniques and tools for software testing and ensuring quality assurance.
 
 ### ALX -AFRICA —   Frontend-developer  
-**March 2024 - December 2024**
+
 
 **Relevant Coursework**:
 - **Project Management**: Planning, executing, and closing projects, ensuring they meet the goals and requirements.
@@ -90,7 +90,7 @@ I possess a diverse set of skills in software development, systems architecture,
 - **Cloud Computing and Virtualization**: Understanding cloud services and virtualization technologies for scalable applications.
 
 ### ALX - Africa — Backend Developer
-**January 2023 - September 2023**
+
 
 **Relevant Coursework**:
 - **Systems Analysis and Design**: Understanding and applying methodologies for analyzing and designing information systems.
@@ -103,7 +103,6 @@ I possess a diverse set of skills in software development, systems architecture,
 - **Cloud Computing**: Understanding cloud computing concepts and services, including deployment and management of cloud-based applications.
 
 ### AWS - Certification —  Cloud Computing 
-**November 2024 - February 2025**
 
 **Relevant Coursework**:
 - **Compute**: Proficient in EC2 for virtual machine management, Lambda for serverless computing, and Elastic Beanstalk for application deployment.
